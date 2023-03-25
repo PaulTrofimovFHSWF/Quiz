@@ -1,0 +1,157 @@
+Name;Vorname;Tel.-Nr.
+Ackers, Prof.Dr.;  ;02331/9330-6204
+Albrecht-Goepfert, Prof.Dr.;Evelyn;02331/9330-703
+Althöfer;  ;02331/9330-6220
+Alisan-Ipek;  ;02331/9330-6217
+Allenstein;  ;02331/9330-704
+Althaus;  ;02331/9330-6249
+Arends ;  ;02331/9330-6243
+Balle;Anette;02331/9330-6202
+Barfuß, Prof.;Maike;02331/9330-803
+Bartmann;  ;02331/9330-606
+Bauer;Andreas;02331/9330-6214
+Beckmann;  ;02331/9330-731
+Berben, Prof. Dr.;Dirk;02331/9330-826
+Blache ;Nils;02331/9330-876
+Blais;  ;02331/9330-602
+Böcker, Prof.Dr., Dekan;Stefan;02331/9330-700/707
+Botte ;  ;02331/9330-857
+Bremecker;Heike;02331/9330-962
+Catgiu;  ;02331/9330-6209
+Clashaus;Andreas;02331/9330-965
+Coners, Prof.Dr.;Andre;02331/9330-717
+Dabrowski;Christian;02331/9330-600
+Degen;  ;02331/9330-6257
+Diedrich;Martin;02331/9330-804
+Duhme;Heiko;02331/9330-6200
+Exnowski, Prof. Dr., Dekan;Sven;02331/9330-800
+Erhardt, Prof. Dr.;  ;02331/9330-6271
+Feldmann; ;02331/9330-879
+Femmer, Prof. Dr.; ;02331/9330-6293
+Fleischer, Prof.Dr.;Karsten;02331/9330-732
+Fuhrmann;Peter;02331/9330-659
+Gaiser; ;02331/9330-6227
+Gebauer;Elke;02331/9330-603
+Glatz;Christoph;02331/9330-706
+Gödde;Elmar;02331/9330-730
+Gödde;Kirsten;02331/9330-6240
+Golian; ;02331/9330-6254
+Gottschewski; ;02331/9330-612
+Gröbner, Prof. Dr.; ;02331/9330-890
+Grohs; ;02331/9330-6226
+Grosse ;Andreas;02331/9330-872
+Grosse;Stefanie;02331/9330-604
+Gust-Bachgardt;Ulla;02331/9330-702
+Hardt;Katharina;02331/9330-737
+Hartmann; ;02331/9330-779
+Hausherr ; ;02331/9330-854
+Heidkamp;Rainer;02331/9330-809
+Helke, Prof. Dr.; ;02331/9330-805
+Herzog;Andreas;02331/9330-651
+Heye;Ute;02331/9330-881
+Höfker ; ;02331/9330-846
+Hövelmann; ;02331/9330-6261
+Hoffmann; ;02331/9330-854
+Homberg-Capp; ;02331/9330-801
+Horst; ;02331/9330-701
+Hüser;Nicole;02331/9330-712
+Kalovljevic;Melanie;02331/9330-6239
+Karweina, Prof.Dr.; ;02331/9330-820
+Kempa; ;02331/9330-855
+Keuchler;Edwin;02331/9330-709
+Kern; ;02331/9330-6253
+Kersken-Herberg;Antje;02331/9330-787
+Kirchner; ;02331/9330-614
+Klein;Marcel;02331/9330-834
+Klinner; ;02331/9330-961
+Klitzke; ;02331/9330-6260
+Kniezner; ;02331/9330-813
+Koch;Julian;02331/9330-6258
+Kolan;Iris;02331/9330-740
+Korte; ;02331/9330-832
+Kothe, Prof.Dr.;Klaus-Dieter;02331/9330-711
+Kramer; ;02331/9330-6236
+Kremser; ;02331/9330-609
+Kretzschmar, Dr.; ;02331/9330-908
+Krietemeyer; ;02331/9330-852
+Krisch, Prof.Dr.;Ingo;02331/9330-853
+Kutlu;Serdar;02331/9330-769
+Lange, Prof. Dr.;Gerald;02331/9330-785
+Lange-Mauriège; ;02331/9330-612
+Lenders; ;02331/9330-6270
+Leubner, Prof. Dr.;Christian;02331/9330-720
+Leuchert; ;02331/9330-652
+Libor; ;02331/9330-653
+Ludwig; ;02331/9330-6228
+Lusmöller; ;02331/9330-856
+Maas,Dr.;Frank;02331/9330-714
+Maden; ;02331/9330-657
+Matthies ;Benjamin;02331/9330-788
+Menk;  ;02331/9330-655
+Mense, Dr.-Ing. ;Carsten;02331/9330-731
+Meyer, Prof. Dr. ;  ;02331/9330-892
+Möring; ;02331/9330-662
+Momirovski; ;02331/9330-6244
+Nistroj; ;02331/9330-601
+Oberstadt; ;02331/9330-6224
+Oldewurtel, Prof.Dr.; ;02331/9330-6268
+Ott;Michael;02331/9330-960
+Otte; ;02331/9330-856
+Pan;Peter;02331/9330-732
+Patzwald, Prof.Dr.;Detlef;02331/9330-819
+Pöppinghaus ; ;02331/9330-891
+Posten, Prof.Dr.;Claus;02331/9330-718
+Pütter; ;02331/9330-875
+Quandt; ;02331/9330-6237
+Ranney ;Bruce;02331/9330-772
+Raschke;Holger;02331/9330-666
+Reineke; ;02331/9330-6269
+Reisner; ;02331/9330-986
+Renz; ;02331/9330-878
+Richling, Prof.Dr. ; ;02331/9330-6219
+Riese;Bert;02331/9330-811/812
+Rietzscher; ;02331/9330-6228
+Roeckerath-Ries,Prof.Dr.;Marie-Therese;02331/9330-823
+Romeikat; ;02331/9330-656
+Sandkühler, Prof. Dr.;Ulrich;02331/9330-825
+Saturel ; ;02331/9330-787
+Schmidt;Hendrik;02331/9330-856
+Schmied; ;02331/9330-610
+Schmies;Oliver;02331/9330-719
+Schneider;Stefan;02331/9330-712
+Schöbe;Walter;02331/9330-657
+Schönenberg;Rainald;02331/9330-6203
+Scholz;Iris;02331/9330-605
+Schröder;Ingo;02331/9330-721
+Scopelliti ; ;02331/9330-6213
+Skrotzki,Prof.Dr.;Thilo;02331/9330-722/730
+Sönnecken; ;02331/9330-6201
+Sonneborn, Dr.;Petra;02331/9330-780
+Stangenberg ; ;02331/9330-882
+Stark; ;02331/9330-947
+Sträßner; ;02331/9330-6260
+Strunk;Jobin;02331/9330-6255
+Thiele; ;02331/9330-966
+Thiessen ; ;02331/9330-788
+Thomas; ;02331/9330-782
+Thunig, Prof.Dr.;Klaus ;02331/9330-6252
+Tioutionkin; ;02331/9330-660
+Torres González; ;02331/9330-601
+Trampler; ;02331/9330-788
+Trenkler; ;02331/9330-828
+Ünlübayir, Prof. Dr.; ;02331/9330-6222
+Vollenberg; ;02331/9330-
+Vitte; ;02331/9330-6256
+Vries,de, Prof.Dr.;Andreas;02331/9330-723
+Vujnovac; ;02331/9330-6221
+Wegmann; ;02331/9330-838
+Wehmeier, Prof. Dr. ;Anne;02331/9330-6242
+Weichs, von;Ines;02331/9330-713
+Weinreich; ;02331/9330-613
+Weirauch;Ingo;02331/9330-724/725
+Weiß;Volker;02331/9330-726
+Wenk, Prof.Dr.;Dieter;02331/9330-727
+Wittkop, Prof.Dr.;Stefan;02331/9330-727
+Wolkwitz;Katharina;02331/9330-607
+Ziefuß; ;02331/9330-6267
+Zmarowski ; ;02331/9330-6234
